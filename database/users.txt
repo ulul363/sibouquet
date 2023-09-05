@@ -1,0 +1,7 @@
+user
+email : daffa.budi2003@gmail.com
+password : daffa123
+
+owner
+email : owner@gmail.com
+password : owner123
